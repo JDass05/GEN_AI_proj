@@ -44,6 +44,14 @@ def get_llm(model_name: str, temperature: float = 0.0) -> BaseChatModel:
             groq_api_key=config.GROQ_API_KEY,
             temperature=temperature,
         )
+    elif provider == "ollama":
+        from langchain_ollama import ChatOllama
+        base_url = getattr(config, "OLLAMA_BASE_URL", "http://localhost:11434")
+        return ChatOllama(
+            model=model_name,
+            base_url=base_url,
+            temperature=temperature,
+        )
     else:
         raise ValueError(f"Unsupported LLM provider: {provider}")
 
