@@ -1,0 +1,445 @@
+[
+  {
+    "id": 118,
+    "claim": "Antibiotic induced alterations in the gut microbiome reduce resistance against Clostridium difficile",
+    "label": "SUPPORTED",
+    "gold_doc_ids": [
+      6372244
+    ]
+  },
+  {
+    "id": 1019,
+    "claim": "Rapid phosphotransfer rates govern fidelity in two component systems",
+    "label": "SUPPORTED",
+    "gold_doc_ids": [
+      11603066
+    ]
+  },
+  {
+    "id": 1146,
+    "claim": "Teaching hospitals do not provide better care than non-teaching hospitals.",
+    "label": "SUPPORTED",
+    "gold_doc_ids": [
+      13906581
+    ]
+  },
+  {
+    "id": 839,
+    "claim": "Nanoparticles can be targeted against specific cell types by incorporating aptamers into lipid nanoparticles.",
+    "label": "SUPPORTED",
+    "gold_doc_ids": [
+      1469751
+    ]
+  },
+  {
+    "id": 756,
+    "claim": "Many proteins in human cells can be post-translationally modified at lysine residues via acetylation.",
+    "label": "SUPPORTED",
+    "gold_doc_ids": [
+      2831620
+    ]
+  },
+  {
+    "id": 146,
+    "claim": "Autologous transplantation of mesenchymal stem cells has lower rates of rejection than induction therapy with anti-interleukin-2 receptor antibodies.",
+    "label": "SUPPORTED",
+    "gold_doc_ids": [
+      10582939
+    ]
+  },
+  {
+    "id": 832,
+    "claim": "NFAT4 activation requires IP3R-mediated Ca2+ mobilization.",
+    "label": "SUPPORTED",
+    "gold_doc_ids": [
+      30303335
+    ]
+  },
+  {
+    "id": 880,
+    "claim": "Occupancy of ribosomes by IncRNAs mirror 5 0-UTRs",
+    "label": "SUPPORTED",
+    "gold_doc_ids": [
+      8426046
+    ]
+  },
+  {
+    "id": 1163,
+    "claim": "The DdrB protein from Deinococcus radiodurans is an alternative SSB.",
+    "label": "SUPPORTED",
+    "gold_doc_ids": [
+      15305881
+    ]
+  },
+  {
+    "id": 921,
+    "claim": "Participating in six months of physical activity improves cognitive functioning.",
+    "label": "SUPPORTED",
+    "gold_doc_ids": [
+      1642727
+    ]
+  },
+  {
+    "id": 1024,
+    "claim": "Recurrent mutations occur frequently within CTCF anchor sites adjacent to oncogenes.",
+    "label": "SUPPORTED",
+    "gold_doc_ids": [
+      5373138
+    ]
+  },
+  {
+    "id": 217,
+    "claim": "CX3CR1 on the Th2 cells promotes T cell survival",
+    "label": "SUPPORTED",
+    "gold_doc_ids": [
+      21366394
+    ]
+  },
+  {
+    "id": 295,
+    "claim": "Crosstalk between dendritic cells (DCs) and innate lymphoid cells (ILCs) is important in the regulation of intestinal homeostasis.",
+    "label": "SUPPORTED",
+    "gold_doc_ids": [
+      20310709
+    ]
+  },
+  {
+    "id": 1121,
+    "claim": "Synaptic activity enhances local release of brain derived neurotrophic factor from postsynaptic dendrites.",
+    "label": "SUPPORTED",
+    "gold_doc_ids": [
+      4456756
+    ]
+  },
+  {
+    "id": 314,
+    "claim": "Deamination of cytidine to uridine on the minus strand of viral DNA results in catastrophic G-to-A mutations in the viral genome.",
+    "label": "SUPPORTED",
+    "gold_doc_ids": [
+      4347374
+    ]
+  },
+  {
+    "id": 528,
+    "claim": "Human T-lymphotropic virus type-I-associated myelopathy / tropical spastic paraparesis (HAM/TSP) patients produce Immunoglobulin G (IgG) antibodies which cross-react with an immunodominant epitope in Tax.",
+    "label": "SUPPORTED",
+    "gold_doc_ids": [
+      5476778
+    ]
+  },
+  {
+    "id": 770,
+    "claim": "Metastatic colorectal cancer treated with a single agent fluoropyrimidines resulted in reduced efficacy and lower quality of life when compared with oxaliplatin-based chemotherapy in elderly patients.",
+    "label": "SUPPORTED",
+    "gold_doc_ids": [
+      15476777
+    ]
+  },
+  {
+    "id": 1337,
+    "claim": "Ubiquitin ligase UBC13 generates a K63-linked polyubiquitin moiety at PCNA K164.",
+    "label": "SUPPORTED",
+    "gold_doc_ids": [
+      20231138
+    ]
+  },
+  {
+    "id": 1086,
+    "claim": "Sildenafil improves erectile function in men who experience sexual dysfunction as a result of the use of SSRI antidepressants.",
+    "label": "SUPPORTED",
+    "gold_doc_ids": [
+      39281140
+    ]
+  },
+  {
+    "id": 641,
+    "claim": "Insomnia can be effectively treated with cognitive behavioral therapy.",
+    "label": "SUPPORTED",
+    "gold_doc_ids": [
+      5912283
+    ]
+  },
+  {
+    "id": 48,
+    "claim": "A total of 1,000 people in the UK are asymptomatic carriers of vCJD infection.",
+    "label": "REFUTED",
+    "gold_doc_ids": [
+      13734012
+    ]
+  },
+  {
+    "id": 852,
+    "claim": "Non-invasive ventilation use should be decreased if there is inadequate response to conventional treatment.",
+    "label": "REFUTED",
+    "gold_doc_ids": [
+      13843341
+    ]
+  },
+  {
+    "id": 233,
+    "claim": "Cell autonomous sex determination in somatic cells does not occur in Galliformes.",
+    "label": "REFUTED",
+    "gold_doc_ids": [
+      4388470
+    ]
+  },
+  {
+    "id": 1029,
+    "claim": "Reduced responsiveness to interleukin-2 in regulatory T cells is associated with greater resistance to autoimmune diseases such as Type 1 Diabetes.",
+    "label": "REFUTED",
+    "gold_doc_ids": [
+      13923140,
+      13940200,
+      11899391
+    ]
+  },
+  {
+    "id": 216,
+    "claim": "CX3CR1 on the Th2 cells impairs T cell survival",
+    "label": "REFUTED",
+    "gold_doc_ids": [
+      21366394
+    ]
+  },
+  {
+    "id": 859,
+    "claim": "Normal expression of RUNX1 has tumor-promoting effects.",
+    "label": "REFUTED",
+    "gold_doc_ids": [
+      1982286
+    ]
+  },
+  {
+    "id": 1370,
+    "claim": "Vitamin D deficiency is unrelated to birth weight.",
+    "label": "REFUTED",
+    "gold_doc_ids": [
+      2425364
+    ]
+  },
+  {
+    "id": 903,
+    "claim": "PD-1 triggering on monocytes reduces IL-10 production by monocytes.",
+    "label": "REFUTED",
+    "gold_doc_ids": [
+      10648422
+    ]
+  },
+  {
+    "id": 1137,
+    "claim": "TNFAIP3 is a tumor suppressor in glioblastoma.",
+    "label": "REFUTED",
+    "gold_doc_ids": [
+      33370
+    ]
+  },
+  {
+    "id": 452,
+    "claim": "Gene expression does not vary appreciably across genetically identical cells.",
+    "label": "REFUTED",
+    "gold_doc_ids": [
+      12804937,
+      464511
+    ]
+  },
+  {
+    "id": 743,
+    "claim": "Macrolides protect against myocardial infarction.",
+    "label": "REFUTED",
+    "gold_doc_ids": [
+      32159283
+    ]
+  },
+  {
+    "id": 219,
+    "claim": "CX3CR1 on the Th2 cells suppresses airway inflammation.",
+    "label": "REFUTED",
+    "gold_doc_ids": [
+      21366394
+    ]
+  },
+  {
+    "id": 674,
+    "claim": "LDL cholesterol has no involvement in the development of cardiovascular disease.",
+    "label": "REFUTED",
+    "gold_doc_ids": [
+      2095573
+    ]
+  },
+  {
+    "id": 51,
+    "claim": "ALDH1 expression is associated with better breast cancer outcomes.",
+    "label": "REFUTED",
+    "gold_doc_ids": [
+      45638119
+    ]
+  },
+  {
+    "id": 212,
+    "claim": "CR is associated with higher methylation age.",
+    "label": "REFUTED",
+    "gold_doc_ids": [
+      22038539
+    ]
+  },
+  {
+    "id": 185,
+    "claim": "Breast cancer development is determined exclusively by genetic factors.",
+    "label": "REFUTED",
+    "gold_doc_ids": [
+      18340282
+    ]
+  },
+  {
+    "id": 1336,
+    "claim": "UCB T cells reduce TCR diversity after transplantation.",
+    "label": "REFUTED",
+    "gold_doc_ids": [
+      27910499
+    ]
+  },
+  {
+    "id": 129,
+    "claim": "Articles published in open access format are less likely to be cited than traditional journals.",
+    "label": "REFUTED",
+    "gold_doc_ids": [
+      27768226
+    ]
+  },
+  {
+    "id": 532,
+    "claim": "Hyperfibrinogenemia decreases rates of femoropopliteal bypass thrombosis.",
+    "label": "REFUTED",
+    "gold_doc_ids": [
+      12991445
+    ]
+  },
+  {
+    "id": 1303,
+    "claim": "Tirasemtiv has no effect on fast-twitch muscle.",
+    "label": "REFUTED",
+    "gold_doc_ids": [
+      12631697
+    ]
+  },
+  {
+    "id": 213,
+    "claim": "CRP is not predictive of postoperative mortality following Coronary Artery Bypass Graft (CABG) surgery.",
+    "label": "NOT_ENOUGH_INFO",
+    "gold_doc_ids": []
+  },
+  {
+    "id": 535,
+    "claim": "Hypertension is frequently observed in type 1 diabetes patients.",
+    "label": "NOT_ENOUGH_INFO",
+    "gold_doc_ids": []
+  },
+  {
+    "id": 502,
+    "claim": "Healthcare delivery efficiency in crowded delivery centers is impaired by improving structural, logistical, and interpersonal elements.",
+    "label": "NOT_ENOUGH_INFO",
+    "gold_doc_ids": []
+  },
+  {
+    "id": 303,
+    "claim": "DMRT1 is a sex-determining gene that is epigenetically regulated by the MHM region.",
+    "label": "NOT_ENOUGH_INFO",
+    "gold_doc_ids": []
+  },
+  {
+    "id": 1272,
+    "claim": "The single flash-evoked ERG b-wave is generated by activity of ON-bipolar cells.",
+    "label": "NOT_ENOUGH_INFO",
+    "gold_doc_ids": []
+  },
+  {
+    "id": 362,
+    "claim": "During the primary early antibody response activated B cells migrate toward the inner-and outer paracortical areas where oxysterol accumulation is generated by stromal cells.",
+    "label": "NOT_ENOUGH_INFO",
+    "gold_doc_ids": []
+  },
+  {
+    "id": 1344,
+    "claim": "Up-regulation of the p53 pathway and related molecular events casues cancer resistance and results in a significantly shortened lifespan marked by senescent cells and accelerated organismal aging.",
+    "label": "NOT_ENOUGH_INFO",
+    "gold_doc_ids": []
+  },
+  {
+    "id": 527,
+    "claim": "Homozygous deletion of murine Sbds gene from osterix-expressing mesenchymal stem and progenitor cells (MPCs) prevents oxidative stress.",
+    "label": "NOT_ENOUGH_INFO",
+    "gold_doc_ids": []
+  },
+  {
+    "id": 716,
+    "claim": "Low expression of miR7a exerts a biological function in testis.",
+    "label": "NOT_ENOUGH_INFO",
+    "gold_doc_ids": []
+  },
+  {
+    "id": 552,
+    "claim": "IgA plasma cells that are specific for transglutaminase 2 accumulate in the duodenal mucosa on commencement of a gluten-free diet.",
+    "label": "NOT_ENOUGH_INFO",
+    "gold_doc_ids": []
+  },
+  {
+    "id": 587,
+    "claim": "In transgenic mice harboring green florescent protein under the control of the Sox2 promoter, less than ten percent of the cells with green florescent colocalize with cell proliferation markers.",
+    "label": "NOT_ENOUGH_INFO",
+    "gold_doc_ids": []
+  },
+  {
+    "id": 1316,
+    "claim": "Transferred UCB T cells acquire a memory-like phenotype in recipients.",
+    "label": "NOT_ENOUGH_INFO",
+    "gold_doc_ids": []
+  },
+  {
+    "id": 300,
+    "claim": "Cytosolic proteins bind to iron-responsive elements on mRNAs coding for DMT1. Cytosolic proteins bind to iron-responsive elements on mRNAs coding for proteins involved in iron uptake.",
+    "label": "NOT_ENOUGH_INFO",
+    "gold_doc_ids": []
+  },
+  {
+    "id": 690,
+    "claim": "Less than 10% of the gabonese children with Schimmelpenning-Feuerstein-Mims syndrome (SFM) had a plasma lactate of more than 5mmol/L.",
+    "label": "NOT_ENOUGH_INFO",
+    "gold_doc_ids": []
+  },
+  {
+    "id": 312,
+    "claim": "De novo assembly of sequence data has more specific contigs than unassembled sequence data.",
+    "label": "NOT_ENOUGH_INFO",
+    "gold_doc_ids": []
+  },
+  {
+    "id": 975,
+    "claim": "Primary pro-inflammatory cytokines induce secondary pro- and anti-inflammatory mediators.",
+    "label": "NOT_ENOUGH_INFO",
+    "gold_doc_ids": []
+  },
+  {
+    "id": 830,
+    "claim": "NF2 (Merlin) causes phosphorylation and subsequent cytoplasmic sequestration of YAP in Drosophila by activating LATS1/2 kinases.",
+    "label": "NOT_ENOUGH_INFO",
+    "gold_doc_ids": []
+  },
+  {
+    "id": 13,
+    "claim": "5% of perinatal mortality is due to low birth weight.",
+    "label": "NOT_ENOUGH_INFO",
+    "gold_doc_ids": []
+  },
+  {
+    "id": 637,
+    "claim": "Input from  mental and physical health care professionals is effective at decreasing homelessness.",
+    "label": "NOT_ENOUGH_INFO",
+    "gold_doc_ids": []
+  },
+  {
+    "id": 1175,
+    "claim": "The PPR MDA5 has two N-terminal CARD domains.",
+    "label": "NOT_ENOUGH_INFO",
+    "gold_doc_ids": []
+  }
+]
