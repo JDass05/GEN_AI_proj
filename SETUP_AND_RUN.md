@@ -60,18 +60,39 @@ pip install -r requirements.txt
    ```bash
    cp .env.example .env
    ```
-2. Open `.env` in a text editor and add your **Gemini API Key**:
-   ```env
-   LLM_PROVIDER=gemini
-   GEMINI_API_KEY=your_actual_gemini_api_key_here
-   DEBATER_MODEL=gemini-3.5-flash-lite
-   JUDGE_MODEL=gemini-3.5-flash
-   EMBEDDING_MODEL=BAAI/bge-base-en-v1.5
-   RERANKER_MODEL=cross-encoder/ms-marco-MiniLM-L6-v2
-   MAX_DEBATE_ROUNDS=2
-   TOP_K_EVIDENCE=5
-   GRADIO_SHARE=false
-   ```
+2. Open `.env` in a text editor and configure your preferred provider:
+
+#### Option 1: Local Ollama (100% Free & Local GPU/CPU Inference)
+```env
+LLM_PROVIDER=ollama
+OLLAMA_BASE_URL=http://localhost:11434
+DEBATER_MODEL=mistral
+JUDGE_MODEL=phi3:mini
+EMBEDDING_MODEL=BAAI/bge-base-en-v1.5
+RERANKER_MODEL=cross-encoder/ms-marco-MiniLM-L6-v2
+MAX_DEBATE_ROUNDS=1
+TOP_K_EVIDENCE=5
+GRADIO_SHARE=false
+```
+
+To prepare Ollama:
+```bash
+ollama pull mistral
+ollama pull phi3:mini
+```
+
+#### Option 2: Cloud Google Gemini API
+```env
+LLM_PROVIDER=gemini
+GEMINI_API_KEY=your_gemini_api_key_here
+DEBATER_MODEL=gemini-3.5-flash-lite
+JUDGE_MODEL=gemini-3.5-flash
+EMBEDDING_MODEL=BAAI/bge-base-en-v1.5
+RERANKER_MODEL=cross-encoder/ms-marco-MiniLM-L6-v2
+MAX_DEBATE_ROUNDS=2
+TOP_K_EVIDENCE=5
+GRADIO_SHARE=false
+```
 
 ---
 

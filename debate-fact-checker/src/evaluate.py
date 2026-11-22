@@ -41,12 +41,22 @@ RESULTS_PATH = os.path.join(config.RESULTS_DIR, "eval_results.json")
 # Load eval set
 # ---------------------------------------------------------------------------
 def load_eval_set(limit: Optional[int] = None) -> List[EvalClaim]:
-    """Load evaluation claims from eval_set.json."""
+    """Load evaluation claims from eval_set.json (stratified across labels if limit is given)."""
     with open(config.EVAL_SET_PATH, "r", encoding="utf-8") as f:
         data = json.load(f)
     claims = [EvalClaim(**c) for c in data]
-    if limit:
-        claims = claims[:limit]
+    if limit and limit < len(claims):
+        by_label = {}
+        for c in claims:
+            by_label.setdefault(c.label, []).append(c)
+        per_class = max(1, limit // len(by_label))
+        selected = []
+        for lbl, group in by_label.items():
+            selected.extend(group[:per_class])
+        remaining = [c for c in claims if c not in selected]
+        while len(selected) < limit and remaining:
+            selected.append(remaining.pop(0))
+        claims = selected[:limit]
     return claims
 
 
